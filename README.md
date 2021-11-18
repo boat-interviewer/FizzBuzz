@@ -1,0 +1,1 @@
+Simple example of solving FizzBuzz with streams and predicates
